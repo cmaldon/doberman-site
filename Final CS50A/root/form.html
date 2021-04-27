@@ -1,0 +1,125 @@
+<h1>Interest Form</h1>
+<div class="form">
+  <h2>Please fill out all fields:</h2><br>
+<form action="https://formspree.io/xqkyngrn" method="POST">
+
+<fieldset>
+<legend>Your Information</legend>
+<label for="name">First Name:</label>
+<br>
+<input type="text" name="firstname" value="" id="name" required>
+<br>
+<label for="lastname">Last Name:</label>
+<br>
+<input type="text" name="lastname" value="" id="lastname">
+<br>
+<label for="address">Address:</label>
+<br>
+<input type="text" name="address" value="" id="address">
+<br>
+<label for="city">City:</label>
+<br>
+<input type="text" name="city" value="" id="city">
+<br>
+<label for="state">State:</label>
+<br>
+<input type="text" name="state" value="" id="state">
+<br>
+<label for="zip">Zip Code:</label>
+<br>
+<input type="text" name="zip" value="" id="zip">
+<br>
+<label for="email">Email:</label>
+<br>
+<input type="email" name="email" value="" id="email" placeholder="your@email.address" required>
+<br>
+<label for="phone">Phone Number:</label>
+<br>
+<input type="tel" name="phone" value="" id="phone" placeholder="(555)555-5555">
+</fieldset>
+
+
+<fieldset>
+  <legend>Gender</legend>
+   <input type="radio" name="maleorfemale" value="Male" id="Male">
+   <label for="Male">Male</label><br>
+   <input type="radio" name="maleorfemale" value="Female" id="Female">
+   <label for="Female">Female</label><br>
+   <input type="radio" name="maleorfemale" value="No Preference" id="maleorfemaleNP">
+   <label for="maleorfemaleNP">No Preference</label>
+</fieldset>
+
+<fieldset>
+  <legend>Tail</legend>
+  <input type="radio" name="tail" value="Docked" id="dockedtail">
+  <label for="dockedtail">Docked</label>
+<br>
+<input type="radio" name="tail" value="Natural" id="naturaltail">
+<label for="naturaltail">Natural<br>
+<input type="radio" name="tail" value="No Preference" id="tailNP">
+<label for="tailNP">No Preference</label>
+</fieldset>
+
+<fieldset>
+  <legend>Ears</legend>
+<input type="radio" name="ears" value="Cropped" id="croppedears">
+<label for="croppedears">Cropped</label>
+<br>
+<input type="radio" name="ears" value="Natural" id="naturalears">
+<label for="naturalears">Natural</label>
+<br>
+<input type="radio" name="ears" value="No Preference" id="earsNP">
+<label for="earsNP">No Preference</label>
+</fieldset>
+
+<fieldset>
+  <legend>Color</legend>
+<input type="checkbox" name="color[]" value="Black and Rust" id="colorblack">
+<label for="colorblack">Black</label>
+<br>
+<input type="checkbox" name="color[]" value="Red and Rust" id="colorred">
+<label for="colorred">Red</label>
+<br>
+<input type="checkbox" name="color[]" value="Fawn" id="colorfawn">
+<label for="colorfawn">Fawn</label>
+<br>
+<input type="checkbox" name="color[]" value="Blue" id="colorblue">
+<label for="colorblue">Blue</label>
+<br>
+<input type="checkbox" name="color[]" value="No Preference" id="colorNP">
+<label for="colorNP">No Preference</label>
+</fieldset>
+
+
+
+<fieldset>
+  <legend>Age</legend>
+<select name="age">
+<option></option>
+<option value="Puppy">Newborn Puppy</option>
+<option value="6mos">6 months old</option>
+<option value="1-2yr">1-2 years old</option>
+<option value="3-4yr">3-4 years old</option>
+<option value="5-6yr">5-6 years old</option>
+<option value="Senior">Senior</option>
+<option value="NoPreference">No Preference</option>
+</select>
+</fieldset>
+
+<br>
+<legend>Additional preferences or comments:</legend>
+<textarea name="comments" rows="10" cols="45"></textarea>
+</p>
+
+
+<p>
+  <input type="checkbox" name="newsletter" value="signup" id="newslettersubscribe" checked>
+<label for="newslettersubscribe"><i class="fas fa-check"></i>Sign up for our Newsletter!</label>
+</p>
+
+<p>
+<input id="submit" type="submit">
+<input type="reset" value="Clear All">
+</p>
+</form>
+</div>
