@@ -1,6 +1,6 @@
 # doberman-site
 ----
-Web page created in Summer 2020 using HTML5 and CSS3.
+Web page created using HTML5 and CSS3.
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- <img src="assets/NNNNNNNNNNNNN" width="400"> -->
@@ -10,7 +10,7 @@ Web page created in Summer 2020 using HTML5 and CSS3.
 
 # Visit Site
 ---
-
+https://cs50a-module17.celestemaldonad.repl.co/root/home.html
 
 
 # Summary
@@ -21,6 +21,7 @@ Web page created in Summer 2020 using HTML5 and CSS3.
 -----------------
 # Screenshots
 #### Progress images
+<img width="929" alt="dobermans-home" src="https://user-images.githubusercontent.com/69225402/117092713-e69d8980-ad13-11eb-928b-18003bbd8951.png">
 
 
 
