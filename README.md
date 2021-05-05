@@ -14,6 +14,7 @@ Web page created using HTML5 and CSS3.
 https://cs50a-module17.celestemaldonad.repl.co/root/home.html
 
 
+
 # Summary
 ### -  *[Contributors](#Contributors)*
 ### -  *[License](#License)*
@@ -24,6 +25,21 @@ https://cs50a-module17.celestemaldonad.repl.co/root/home.html
 #### Progress images
 <img width="929" alt="dobermans-home" src="https://user-images.githubusercontent.com/69225402/117092713-e69d8980-ad13-11eb-928b-18003bbd8951.png">
 
+<img width="146" alt="doberman-mobile-contact" src="https://user-images.githubusercontent.com/69225402/117093114-e5209100-ad14-11eb-9579-cd2f4f657c98.png">
+
+<img width="602" alt="doberman-colors" src="https://user-images.githubusercontent.com/69225402/117093124-ed78cc00-ad14-11eb-8ef3-9279e6282d5c.png">
+
+<img width="417" alt="doberman-about" src="https://user-images.githubusercontent.com/69225402/117093128-f073bc80-ad14-11eb-8d6c-0048defd7c5d.png">
+
+<img width="278" alt="doberman-footer" src="https://user-images.githubusercontent.com/69225402/117093135-f5d10700-ad14-11eb-8806-6f1d0ddd95ed.png">
+
+<img width="146" alt="doberman-mobile-contact" src="https://user-images.githubusercontent.com/69225402/117093138-f8336100-ad14-11eb-9d7b-a92577115858.png">
+
+<img width="292" alt="doberman-mobile-interest-form" src="https://user-images.githubusercontent.com/69225402/117093143-fb2e5180-ad14-11eb-8795-a846b392112c.png">
+
+<img width="198" alt="doberman-mobile-care" src="https://user-images.githubusercontent.com/69225402/117093149-fd90ab80-ad14-11eb-900f-98175cb3e562.png">
+
+<img width="199" alt="doberman-mobile-footer" src="https://user-images.githubusercontent.com/69225402/117093156-041f2300-ad15-11eb-9161-1bf35d631a59.png">
 
 
 
