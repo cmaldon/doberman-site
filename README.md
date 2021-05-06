@@ -63,7 +63,8 @@ https://cs50a-module17.celestemaldonad.repl.co/root/home.html
 
 
 # Contributors
-<h4>Thank you</h4>
+
+<h3>Thank you</h3>
 
 ----
 
